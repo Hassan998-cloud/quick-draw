@@ -1,0 +1,23 @@
+body
+{
+    background-color: aqua;
+}
+
+#score
+{
+    font-size: 50px;
+    margin-left: 50px;
+    float:left;
+}
+
+#timer
+{
+    font-size: 50px;
+    float:right;
+    margin-right: 70px;
+}
+
+#not_drawn
+{
+    color: rgb(255, 0, 0);
+}
